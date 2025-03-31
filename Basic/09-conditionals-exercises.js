@@ -6,7 +6,10 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=8652
 // if/else/else if/ternaria
 
 // 1. Imprime por consola tu nombre si una variable toma su valor
-
+let miNombre = "David";
+if (miNombre === "David") {
+    console.log(miNombre);
+}
 // 2. Imprime por consola un mensaje si el usuario y contraseña concide con unos establecidos
 
 // 3. Verifica si un número es positivo, negativo o cero e imprime un mensaje
